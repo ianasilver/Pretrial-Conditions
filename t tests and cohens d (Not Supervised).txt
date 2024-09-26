@@ -1,0 +1,624 @@
+$AGE_CA
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -9.343592648, df = 8762.531754, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -2.21611146625 -1.44750477160
+sample estimates:
+mean in group 0 mean in group 1 
+  32.3466775046   34.1784856235 
+
+
+$C_VIOL
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 5.041771307, df = 8677.194458, p-value = 0.000000470569811
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.0246521951537 0.0560158970907
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.363747205852  0.323413159730 
+
+
+$Pending_Charge
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -9.206964507, df = 10639.77447, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0558739888261 -0.0362586974646
+sample estimates:
+mean in group 0 mean in group 1 
+0.0867709815078 0.1328373246532 
+
+
+$Prior_MC
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -14.06703565, df = 9262.482966, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.1297359408232 -0.0980011252501
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.350132086974  0.464000620011 
+
+
+$Prior_FC
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -15.32978726, df = 10355.37563, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.1169130923954 -0.0904038388413
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.179841495631  0.283499961249 
+
+
+$Prior_VC
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -9.849885339, df = 11330.40504, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.394583423085 -0.263601530429
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.549075391181  0.878167867938 
+
+
+$Prior_FTA_L2Y
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -33.96344843, df = 16030.60662, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.354690715636 -0.315984445280
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.110140215403  0.445477795861 
+
+
+$Prior_FTA_MT2
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -10.74737519, df = 11174.65875, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.304216987236 -0.210364299993
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.440764072343  0.698054715958 
+
+
+$Prior_IN
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -9.338928985, df = 10091.72968, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0688805298862 -0.0449814200237
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.142247510669  0.199178485623 
+
+
+$MSCL_Misdemeanor
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -30.5955921, df = 9463.236346, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.258294170267 -0.227189917047
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.314570209307  0.557312252964 
+
+
+$MSCL_Felony
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 30.5955921, df = 9463.236346, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.227189917047 0.258294170267
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.685429790693  0.442687747036 
+
+
+$`MSCO_Drug Offenses`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 12.93657257, df = 7771.371323, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.076848905195 0.104297955182
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.253403779720  0.162830349531 
+
+
+$`MSCO_Other Offenses`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -38.78744779, df = 16764.51918, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.135123570429 -0.122123700144
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00894127209917 0.13756490738588 
+
+
+$`MSCO_Property Offenses`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 11.6296851, df = 8239.187018, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.0750707818982 0.1055084806571
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.341394025605  0.251104394327 
+
+
+$`MSCO_Public Order Offenses`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -20.77714382, df = 15193.24355, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0863497711311 -0.0714617946761
+sample estimates:
+mean in group 0 mean in group 1 
+0.0339361918309 0.1128419747346 
+
+
+$`MSCO_Violent Offenses`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 3.326959118, df = 8755.723888, p-value = 0.000881609179
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.0109546142955 0.0423780991529
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.362324730746  0.335658374022 
+
+
+$`allRaces_American Indian/Native Alaskan`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 0.7822338423, df = 7944.279177, p-value = 0.434100473
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.00101640457245  0.00236622904787
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00284495021337 0.00217003797566 
+
+
+$`allRaces_Asian/Pacific Islander`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 0.8878665383, df = 8116.816655, p-value = 0.374638854
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.00129130350600  0.00342952828522
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00548668969722 0.00441757730760 
+
+
+$allRaces_Black
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -1.506506736, df = 8731.458586, p-value = 0.131973315
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0225188151938  0.0029472737485
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.813046128836  0.822831899558 
+
+
+$allRaces_Hispanic
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 1.072364558, df = 7782.994962, p-value = 0.28358957
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.000886737207553  0.003028647277851
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00386100386100 0.00279004882585 
+
+
+$`allRaces_Multiple Races`
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 0.2941644159, df = 8382.186192, p-value = 0.768639554
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.00103337600737  0.00139828281998
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00142247510669 0.00124002170038 
+
+
+$allRaces_Other
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 0.4856196476, df = 8223.322503, p-value = 0.627249802
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.00113959205481  0.00189016300325
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00223531802479 0.00186003255057 
+
+
+$allRaces_Unknown
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 0.2463891033, df = 8327.164677, p-value = 0.805387114
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.000802229759202  0.001032891182487
+sample estimates:
+  mean in group 0   mean in group 1 
+0.000812842918106 0.000697512206464 
+
+
+$allRaces_White
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 1.004023916, df = 8776.40711, p-value = 0.315394767
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.00599781211129  0.01859325504729
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.170290591343  0.163992869875 
+
+
+$SEX_Male
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = -7.814185612, df = 8438.022252, p-value = 0.00000000000000619694999
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0753638405034 -0.0451356651085
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.677098150782  0.737347903588 
+
+
+$SEX_Female
+
+	Welch Two Sample t-test
+
+data:  x by H$Not_Supervised
+t = 7.814185612, df = 8438.022252, p-value = 0.00000000000000619694999
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.0451356651085 0.0753638405034
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.322901849218  0.262652096412 
+
+
+$AGE_CA
+
+Cohen's d
+
+d estimate: -0.157737518845 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.190618698533 -0.124856339156 
+
+
+$C_VIOL
+
+Cohen's d
+
+d estimate: 0.085541510481 (negligible)
+95 percent confidence interval:
+          lower           upper 
+0.0526891280214 0.1183938929406 
+
+
+$Pending_Charge
+
+Cohen's d
+
+d estimate: -0.141975954786 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.174849391651 -0.109102517920 
+
+
+$Prior_MC
+
+Cohen's d
+
+d estimate: -0.231047172372 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.263975029260 -0.198119315484 
+
+
+$Prior_FC
+
+Cohen's d
+
+d estimate: -0.239203914807 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.272138048400 -0.206269781214 
+
+
+$Prior_VC
+
+Cohen's d
+
+d estimate: -0.147885915407 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.180762160304 -0.115009670510 
+
+
+$Prior_FTA_L2Y
+
+Cohen's d
+
+d estimate: -0.440512958903 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.473670226819 -0.407355690986 
+
+
+$Prior_FTA_MT2
+
+Cohen's d
+
+d estimate: -0.162299974042 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.195183546640 -0.129416401444 
+
+
+$Prior_IN
+
+Cohen's d
+
+d estimate: -0.147402687548 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.180278698557 -0.114526676539 
+
+
+$MSCL_Misdemeanor
+
+Cohen's d
+
+d estimate: -0.497409883562 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.530653767912 -0.464165999213 
+
+
+$MSCL_Felony
+
+Cohen's d
+
+d estimate: 0.497409883562 (small)
+95 percent confidence interval:
+         lower          upper 
+0.464165999213 0.530653767912 
+
+
+$`MSCO_Drug Offenses`
+
+Cohen's d
+
+d estimate: 0.233136920085 (small)
+95 percent confidence interval:
+         lower          upper 
+0.200207475746 0.266066364424 
+
+
+$`MSCO_Other Offenses`
+
+Cohen's d
+
+d estimate: -0.432750398732 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.465896647865 -0.399604149599 
+
+
+$`MSCO_Property Offenses`
+
+Cohen's d
+
+d estimate: 0.202792396899 (small)
+95 percent confidence interval:
+         lower          upper 
+0.169884606894 0.235700186905 
+
+
+$`MSCO_Public Order Offenses`
+
+Cohen's d
+
+d estimate: -0.276343372815 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.309308820615 -0.243377925015 
+
+
+$`MSCO_Violent Offenses`
+
+Cohen's d
+
+d estimate: 0.0561875782004 (negligible)
+95 percent confidence interval:
+          lower           upper 
+0.0233420205975 0.0890331358034 
+
+
+$`allRaces_American Indian/Native Alaskan`
+
+Cohen's d
+
+d estimate: 0.0139194338285 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0189212617162  0.0467601293733 
+
+
+$`allRaces_Asian/Pacific Islander`
+
+Cohen's d
+
+d estimate: 0.015609834341 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0172309431104  0.0484506117924 
+
+
+$allRaces_Black
+
+Cohen's d
+
+d estimate: -0.025478759527 (negligible)
+95 percent confidence interval:
+            lower             upper 
+-0.05832020234862  0.00736268329457 
+
+
+$allRaces_Hispanic
+
+Cohen's d
+
+d estimate: 0.0193088045718 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0135321848198  0.0521497939635 
+
+
+$`allRaces_Multiple Races`
+
+Cohen's d
+
+d estimate: 0.00508215358153 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0277582664211  0.0379225735842 
+
+
+$allRaces_Other
+
+Cohen's d
+
+d estimate: 0.00847687717577 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0243636183559  0.0413173727074 
+
+
+$allRaces_Unknown
+
+Cohen's d
+
+d estimate: 0.00427179833688 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0285686092277  0.0371122059015 
+
+
+$allRaces_White
+
+Cohen's d
+
+d estimate: 0.0169362000644 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0159046482203  0.0497770483492 
+
+
+$SEX_Male
+
+Cohen's d
+
+d estimate: -0.134526786511 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.167396846817 -0.101656726205 
+
+
+$SEX_Female
+
+Cohen's d
+
+d estimate: 0.134526786511 (negligible)
+95 percent confidence interval:
+         lower          upper 
+0.101656726205 0.167396846817 
+
+
